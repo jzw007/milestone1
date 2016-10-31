@@ -37,11 +37,9 @@
 
 			<header3>
 				<h4>
-					<link href="media" rel=""
+					<image> src="../Users/jeremiahwood/Desktop/Book Camp/Git/milestone1/public_html/documentation/media/Balsamiq_Mockups_3.5.5.dmg" alt="diagram">; </image>
 				</h4>
 			</header3>
-
-
 		</main>
 	</body>
 </html>
