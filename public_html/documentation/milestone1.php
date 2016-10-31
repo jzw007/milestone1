@@ -36,8 +36,11 @@
 			</section>
 
 			<header3>
-					<image> src="../Users/jeremiahwood/Desktop/Book Camp/Git/milestone1/public_html/documentation/media/New Mockup 1.png </image>
+				<h3> Full Web Page</h3>
+					<img src="media/New-Mockup 1.png">
 			</header3>
+			<h4> Mobile Wire Frames</h4>
+				<img src="media/Wire-Frams.png">
 		</main>
 	</body>
 </html>
