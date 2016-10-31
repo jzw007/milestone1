@@ -36,9 +36,7 @@
 			</section>
 
 			<header3>
-				<h4>
-					<image> src="../Users/jeremiahwood/Desktop/Book Camp/Git/milestone1/public_html/documentation/media/Balsamiq_Mockups_3.5.5.dmg" alt="diagram">; </image>
-				</h4>
+					<image> src="../Users/jeremiahwood/Desktop/Book Camp/Git/milestone1/public_html/documentation/media/New Mockup 1.png </image>
 			</header3>
 		</main>
 	</body>
