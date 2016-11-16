@@ -25,7 +25,7 @@
 				<header>
 					<h2> Persona </h2>
 				</header>
-				<li> Well Im 35 and rarely act my age and being as I don't have a family or wife I might as well go after the biggest scariest thing for me.As an aspiring actor I am always looking for the professional edge above the rest. I have been trying to break into the entertainment industry for 10 years now with only mediocre results. Since a lot of the casting can be done nation wide through technology, why not make it look good? With the ability to send your Video real, Head shots, and resume to agents and audition in New York to L.A. all in a day.
+				<li> Well Im 35 and rarely act my age and being as I don't have a family or wife I might as well go after the biggest scariest thing for me. As an aspiring actor I am always looking for the professional edge above the rest. I have been trying to break into the entertainment industry for 10 years now with only mediocre results. Since a lot of the casting can be done nation wide through technology, why not make it look good? With the ability to send your Video real, Head shots, and resume to agents and audition in New York to L.A. all in a day.
 					</li>
 			</section>
 			<header> </header>
@@ -41,10 +41,10 @@
 
 			<header3>
 				<h3> Full Web Page</h3>
-					<img src="media/New-Mockup 1.png">
+					<img src="../media/New-Mockup 1.png">
 			</header3>
-			<h4> Mobile Wire Frames</h4>
-				<img src="media/Wire-Frams.png">
+			<h3> Mobile Wire Frames</h3>
+				<img src="../media/Wire-Frams.png">
 		</main>
 	</body>
 </html>
